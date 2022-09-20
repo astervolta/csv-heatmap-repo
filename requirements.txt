@@ -1,0 +1,6 @@
+mljar-mercury
+pandas
+seaborn
+numpy
+geopandas
+rasterio
